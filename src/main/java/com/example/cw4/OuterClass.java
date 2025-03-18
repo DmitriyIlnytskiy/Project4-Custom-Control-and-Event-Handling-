@@ -11,6 +11,7 @@ public class OuterClass {
         }
     }
 
+
     // Static Nested Class
     static class NestedStaticClass {
         void display() {
