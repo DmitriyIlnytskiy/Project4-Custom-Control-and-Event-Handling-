@@ -30,6 +30,7 @@ public class OuterClass {
         local.display();
     }
 
+
     // Anonymous class
     abstract static class Greeter {
         abstract void greet();
